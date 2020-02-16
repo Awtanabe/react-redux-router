@@ -8,7 +8,7 @@ class Top extends Component{
       <div>
         Top
         <br/>
-        <Link to="/foo">Foo</Link>
+        <Link to="/counter">Counter</Link>
       </div>
     )
   }
